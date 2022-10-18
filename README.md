@@ -1,6 +1,11 @@
 # blog
 Blog with Django and React
 
+- Django
+- React
+- Redux
+- Postgresql
+
 # Download & Setup Instructions
 - Clone project git clone https://github.com/merveecolakoglu/blog.git
 - cd blog
