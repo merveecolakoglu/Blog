@@ -9,8 +9,10 @@ Blog with Django and React
 # Download & Setup Instructions
 - Clone project git clone https://github.com/merveecolakoglu/blog.git
 - cd blog
-- Create virtual environment: virtualenv venv
-- venv\bin\activate
+- create a virtual environment and active
+- Set the database from settings.py
+- python manage.py makemigrations
+- python manage.py migrate
 - pip install -r requirements.txt
 - python manage.py runserver
 
